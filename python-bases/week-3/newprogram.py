@@ -7,4 +7,3 @@ data = response.json()
 conversion_rate = data['conversion_rate']
 
 print(conversion_rate)
-
