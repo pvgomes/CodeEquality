@@ -1,1 +1,1 @@
-# CodeEquality
+# CodEquality
